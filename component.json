@@ -1,0 +1,15 @@
+{
+	"name": "compareObjects",
+	"version": "0.0.1",
+	"license": "MIT",
+	"author": {
+		"name": "Vladimir Morulus",
+		"email": "vladimirmorulus@gmail.com"
+	},
+	"main": [
+		"dist": "dist/compareObjects.js"
+	],
+	"scripts": [
+		"src/compareObjects.js"
+	]
+}
