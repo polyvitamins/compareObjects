@@ -1,6 +1,6 @@
 {
-	"name": "compareObjects",
-	"repository": "http://github.com/polyvitamins/compareObjects",
+	"name": "compareobjects",
+	"repository": "http://github.com/polyvitamins/compareobjects",
 	"version": "0.0.1",
 	"license": "MIT",
 	"author": {
@@ -8,9 +8,9 @@
 		"email": "vladimirmorulus@gmail.com"
 	},
 	"main": [
-		"dist/compareObjects.js"
+		"dist/compareobjects.js"
 	],
 	"scripts": [
-		"src/compareObjects.js"
+		"src/compareobjects.js"
 	]
 }
