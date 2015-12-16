@@ -1,0 +1,31 @@
+{
+  "name": "compareobjects",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/polyvitamins/compareobjects.git"
+  },
+  "description": "Inherit class by class",
+  "version": "0.0.1",
+  "keywords": [
+    "compareobjects"
+  ],
+  "main": "src/compareobjects.js",
+  "dependencies": {
+    "polyvitamins/mixin": "master"
+  },
+  "license": "MIT",
+  "remotes": [
+    "github"
+  ],
+  "tags": [
+    "amd"
+  ],
+  "bugs": {
+    "url": "https://github.com/polyvitamins/compareobjects/issues"
+  },
+  "homepage": "https://github.com/polyvitamins/compareobjects#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vladimir Kalmykov <vladimirmorulus@gmail.com>"
+}
