@@ -1,5 +1,5 @@
 {
-  "name": "compareobjects",
+  "name": "compareobjects", 
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/polyvitamins/compareobjects.git"
